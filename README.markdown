@@ -1,4 +1,4 @@
-This is some awesome books I have ever read.
+This is some awesome books I have ever read or I have been recommended.
 
 If you have time, you should read them.
 
@@ -22,8 +22,14 @@ Vim](https://www.dropbox.com/home/Recommend%20Books?preview=Practical+Vim+-+Edit
 * [Instroduction to Algorithms
     -3nd](https://www.dropbox.com/home/Recommend%20Books?preview=introduction-to-algorithms-3rd-edition.pdf)
 
+## C
+* [C-Programming Ebook](https://www.dropbox.com/home/Recommend%20Books?preview=C-Programming-Ebook.pdf)
+* [C Interfaces and implementations](https://www.dropbox.com/home/Recommend%20Books?preview=David_R_Hanson-C_Interfaces_and_Implementations-EN.pdf)
+* [Computer System Book](https://www.dropbox.com/home/Recommend%20Books?preview=ComputerSystemBook.pdf)
+
 ## Python
 * [Effective Python - 59 specific ways to write better Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287)
+* [Gray Hat Python- Python programming for hackers and reverse engineers](https://www.dropbox.com/home/Recommend%20Books?preview=Gray+Hat+Python.pdf)
 
 ## Skills
 * [10 Day to Faster
