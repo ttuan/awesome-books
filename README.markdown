@@ -28,7 +28,9 @@ Vim](https://www.dropbox.com/home/Recommend%20Books?preview=Practical+Vim+-+Edit
 * [Computer System Book](https://www.dropbox.com/home/Recommend%20Books?preview=ComputerSystemBook.pdf)
 
 ## Python
-* [Effective Python - 59 specific ways to write better Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287)
+
+* [Effective Python - 59 specific ways to write better
+    Python](https://www.dropbox.com/home/Recommend%20Books?preview=Effective+Python_+59+Specific+W+-+Brett+Slatkin.pdf)
 * [Gray Hat Python- Python programming for hackers and reverse engineers](https://www.dropbox.com/home/Recommend%20Books?preview=Gray+Hat+Python.pdf)
 
 ## Skills
@@ -44,3 +46,4 @@ Vim](https://www.dropbox.com/home/Recommend%20Books?preview=Practical+Vim+-+Edit
     Complete](https://www.dropbox.com/home/Recommend%20Books/Clean%20Code?preview=Code+Complete++Second+Edition+By+Steve+Mcconnell+(Microsoft+Press+2004).pdf)
 * [Refactoring improving the design of existing
     code](https://www.dropbox.com/home/Recommend%20Books/Clean%20Code?preview=Refactoring_improving_the_design_of_existing_code.pdf)
+
