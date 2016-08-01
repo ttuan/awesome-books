@@ -39,7 +39,7 @@ Vim](https://www.dropbox.com/home/Recommend%20Books?preview=Practical+Vim+-+Edit
 
 ## Clean code
 * [Clean
-    code](https://www.dropbox.com/home/Recommend%20Books/Clean%20Code?preview=CleanCode.pdf)
+    code](https://www.dropbox.com/home/Recommend%20Books/Clean%20Code?preview=clean_code.pdf)
 * [Working effectively with legacy
     code](https://www.dropbox.com/home/Recommend%20Books/Clean%20Code?preview=%5BPROGRAMMING%5D%5BWorking+Effectively.+with+Legacy+Code%5D.pdf)
 * [Code
