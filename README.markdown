@@ -33,6 +33,10 @@ Vim](https://www.dropbox.com/home/Recommend%20Books?preview=Practical+Vim+-+Edit
     Python](https://www.dropbox.com/home/Recommend%20Books?preview=Effective+Python_+59+Specific+W+-+Brett+Slatkin.pdf)
 * [Gray Hat Python- Python programming for hackers and reverse engineers](https://www.dropbox.com/home/Recommend%20Books?preview=Gray+Hat+Python.pdf)
 
+## Ruby
+* [Metaprogramming Ruby
+    2](https://www.dropbox.com/s/gt3g84thylz9fti/Metaprogramming%20Ruby%202.pdf?dl=0)
+
 ## Skills
 * [10 Day to Faster
     Reading](https://www.dropbox.com/home/Recommend%20Books?preview=pdfbooksinfo.blogspot.com+10+Days+to+Faster+Reading.pdf)
