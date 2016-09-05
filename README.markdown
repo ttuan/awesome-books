@@ -43,11 +43,12 @@ Vim](https://www.dropbox.com/home/Recommend%20Books?preview=Practical+Vim+-+Edit
 
 ## Clean code
 * [Clean
-    code](https://www.dropbox.com/home/Recommend%20Books/Clean%20Code?preview=CleanCode.pdf)
+    code](https://www.dropbox.com/s/vec1upqyo7fs79q/clean_code.pdf?dl=0)
 * [Working effectively with legacy
     code](https://www.dropbox.com/home/Recommend%20Books/Clean%20Code?preview=%5BPROGRAMMING%5D%5BWorking+Effectively.+with+Legacy+Code%5D.pdf)
 * [Code
     Complete](https://www.dropbox.com/home/Recommend%20Books/Clean%20Code?preview=Code+Complete++Second+Edition+By+Steve+Mcconnell+(Microsoft+Press+2004).pdf)
 * [Refactoring improving the design of existing
     code](https://www.dropbox.com/home/Recommend%20Books/Clean%20Code?preview=Refactoring_improving_the_design_of_existing_code.pdf)
+
 
