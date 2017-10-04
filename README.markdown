@@ -4,51 +4,48 @@ If you have time, you should read them.
 
 I believe that they will not waste your time.
 
-## Vim
-* [Practical
-Vim](https://www.dropbox.com/home/Recommend%20Books?preview=Practical+Vim+-+Edit+Text+at+the+Speed+of+Thought+%5BV.7%5D+-+D.+Neil+(Pragmatic%2C+2012)+BBS.pdf)
-
-## Tmux
-* [Tmux Productive Mouse-free
-    Development](https://www.dropbox.com/home/Recommend%20Books?preview=Tmux_+Mouse+Free+Productivity+By+Brian+Hogan.pdf)
-
-## Javascript
-* [Javascript The Good
-    Parts](https://www.dropbox.com/home/Recommend%20Books?preview=javascript_the_good_parts.pdf)
-* [Effective JS - 68 specific ways to harness the power of
-    JavaScript](https://www.dropbox.com/home/Recommend%20Books?preview=introduction-to-algorithms-3rd-edition.pdf)
+Feel free to contribute, guys!
 
 ## Algorithm
 * [Instroduction to Algorithms
-    -3nd](https://www.dropbox.com/home/Recommend%20Books?preview=introduction-to-algorithms-3rd-edition.pdf)
+    -3nd](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
 ## C
-* [C-Programming Ebook](https://www.dropbox.com/home/Recommend%20Books?preview=C-Programming-Ebook.pdf)
-* [C Interfaces and implementations](https://www.dropbox.com/home/Recommend%20Books?preview=David_R_Hanson-C_Interfaces_and_Implementations-EN.pdf)
-* [Computer System Book](https://www.dropbox.com/home/Recommend%20Books?preview=ComputerSystemBook.pdf)
+* [C-Programming Ebook](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+* [C Interfaces and implementations](https://www.amazon.com/Interfaces-Implementations-Techniques-Creating-Reusable/dp/0201498413)
+
+## Clean code
+* [Clean
+    code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+* [Working effectively with legacy
+    code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
+* [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) ([Vietnamese version](https://github.com/hprobotic/CC2Translate))
+* [Refactoring improving the design of existing
+    code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+
+## Javascript
+* [Javascript The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+* [Effective JS - 68 specific ways to harness the power of
+    JavaScript](https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)
 
 ## Python
-
 * [Effective Python - 59 specific ways to write better
-    Python](https://www.dropbox.com/home/Recommend%20Books?preview=Effective+Python_+59+Specific+W+-+Brett+Slatkin.pdf)
-* [Gray Hat Python- Python programming for hackers and reverse engineers](https://www.dropbox.com/home/Recommend%20Books?preview=Gray+Hat+Python.pdf)
+    Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287)
+* [Gray Hat Python- Python programming for hackers and reverse engineers](https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2)
 
 ## Ruby
 * [Metaprogramming Ruby
     2](https://www.dropbox.com/s/gt3g84thylz9fti/Metaprogramming%20Ruby%202.pdf?dl=0)
+* [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
 
 ## Skills
-* [10 Day to Faster
-    Reading](https://www.dropbox.com/home/Recommend%20Books?preview=pdfbooksinfo.blogspot.com+10+Days+to+Faster+Reading.pdf)
+* [10 Day to Faster Reading](https://www.amazon.com/Faster-Reading-Princeton-Language-Institute/dp/0446676675)
+* [The Power of Habit: Why We Do What We Do in Life and
+    Business](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
 
-## Clean code
-* [Clean
-    code](https://www.dropbox.com/s/vec1upqyo7fs79q/clean_code.pdf?dl=0)
-* [Working effectively with legacy
-    code](https://www.dropbox.com/home/Recommend%20Books/Clean%20Code?preview=%5BPROGRAMMING%5D%5BWorking+Effectively.+with+Legacy+Code%5D.pdf)
-* [Code
-    Complete](https://www.dropbox.com/home/Recommend%20Books/Clean%20Code?preview=Code+Complete++Second+Edition+By+Steve+Mcconnell+(Microsoft+Press+2004).pdf)
-* [Refactoring improving the design of existing
-    code](https://www.dropbox.com/home/Recommend%20Books/Clean%20Code?preview=Refactoring_improving_the_design_of_existing_code.pdf)
+## Tmux
+* [Tmux Productive Mouse-free Development](https://pragprog.com/book/bhtmux/tmux)
 
+## Vim
+* [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition)
 
