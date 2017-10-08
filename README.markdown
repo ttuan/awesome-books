@@ -38,6 +38,9 @@ Feel free to contribute, guys!
     2](https://www.dropbox.com/s/gt3g84thylz9fti/Metaprogramming%20Ruby%202.pdf?dl=0)
 * [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
 
+## Cryptography
+* [An Introduction to Mathematical Cryptography](http://www.springer.com/us/book/9781441926746)
+
 ## Skills
 * [10 Day to Faster Reading](https://www.amazon.com/Faster-Reading-Princeton-Language-Institute/dp/0446676675)
 * [The Power of Habit: Why We Do What We Do in Life and
