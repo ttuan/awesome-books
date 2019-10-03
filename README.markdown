@@ -9,6 +9,7 @@ Feel free to contribute, guys!
 ## Algorithm
 * [Instroduction to Algorithms
     -3nd](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+* [Elements of Programming Interviews: The Insiders' Guide](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
 
 ## C
 * [C-Programming Ebook](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
